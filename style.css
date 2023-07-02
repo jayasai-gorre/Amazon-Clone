@@ -19,10 +19,11 @@
 }
 
 .logo {
-  background-image: url("assets/amazon_logo.png");
-  background-size: cover;
+  background-image: url("amazon_logo.png");
+  background-size:cover ;
   height: 50px;
   width: 100%;
+  z-index: 1;
 }
 
 .border {
